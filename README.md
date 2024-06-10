@@ -103,3 +103,33 @@ Tested end to end Demo website.[ StackDemo](https://bstackdemo.com/)
 * Regression Testing: It is carried out to test the side effects of the testing process.
 * Log Defects: Defects are fixed in this step.
 * Retest: If the test is not successful then again test is performed.
+---------------------------------------------------------------------------
+
+## Functional Testing And Non Functional Testing
+=> User behavior 
+- Types of functional testing:
+* smoke: Performed at early periods 
+* sanity: Always done after making the builds stable
+* integraton: collected testing of all parts in integration testing 
+* regressions: Unit regression, full regration , regional regration
+* localization
+* unit tesing
+
+----------------------------------------------------------------------------
+# SDLC(Software Development life cycle)
+
+<img src="https://cdn.brocoders.com/6_phases_of_software_development_life_cycle_ce25a52c62.png" hight="300" width="400"/>
+
+
+Agile Methodologies
+Not every organization implements Agile SDLC in the same way; there are several possible frameworks – Kanban, Scrum, Extreme Programming, Feature-Driven Development, Crystal, Lean, and Dynamic Systems Development Method. And, to make things more convoluted, there can be hybrids. For instance, Scrum + Kanban = Scrumban.
+
+ we're just going to look at Scrum and Kanban, which are the most popular non-hybrid Agile methodologies.
+
+<img src="https://cdn.brocoders.com/Scrum_vs_Kanban_89aa26b056.png" hight="350" width="450" />
+
+
+# STLC(Software Test Life Cycle )
+<img src="https://static.javatpoint.com/tutorial/software-testing/images/sdlc-vs-stlc.png" hight="300" width= "400">
+
+
